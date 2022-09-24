@@ -1,3 +1,4 @@
 # MyfirstRep
-This is a sample rep for my data science course
-I want to becoming one of the best computer scientist from nigeria and enugu in short, i feel like this country is blessed with alot of talents, but we need to really discover it soon
+Here I did reverse engineering
+On a space invade game using the popular pygamr 
+Python Library for 2D game dev
